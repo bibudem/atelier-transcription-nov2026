@@ -3,3 +3,6 @@
 
 # Fichiers de verrouillage de Word et PowerPoint
 ~$*
+
+# Configuration de la copie vers Teams : chemins personnels
+synchro-teams.conf
