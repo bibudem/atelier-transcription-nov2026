@@ -6,3 +6,6 @@
 
 # Configuration de la copie vers Teams : chemins personnels
 synchro-teams.conf
+
+# Fichier source de l'exposé : seul le PDF sans notes est publié
+exposé_magistral.pptx
